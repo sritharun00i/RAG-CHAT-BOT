@@ -22,7 +22,6 @@
     ```bash
     uvicorn app.main:app --reload
     ```
-    The API will run at `http://localhost:8000`.
 
 2. **Ingest Documents**:
     Use the `/ingest` endpoint to upload a PDF or Text file.
